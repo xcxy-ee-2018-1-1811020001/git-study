@@ -1,1 +1,1 @@
-# git-study
+# git-studygit Git学习
